@@ -1,11 +1,6 @@
 /*
- * Ray Murdorf
- * 1/27/2025
- * Applied CS Math
- * Polynomial Interpolation
- * 
- * Finds a polynomial going through all points in a given dataset using interpolation
- * the array of points starts at 0, so the first value should be x0 not x1
+ * By Ray Murdorf
+ * Licensed under CC-BY-NC-SA 4.0
  */
 
  import java.util.*; // scanner, arraylist
